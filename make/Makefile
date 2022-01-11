@@ -12,7 +12,7 @@ help:	## This help.
 .DEFAULT_GOAL := help
 
 build: 	## Build 
-	go build -v -o bin/${APP}-$(OS) src/*.go
+	go build -v -o bin/${APP}-$(OS)  src/*.go
 
 run: 	## Run 
 	bin/${APP}-$(OS)
