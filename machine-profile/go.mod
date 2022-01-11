@@ -1,3 +1,3 @@
-module rajasoun.com/machine-profile
+module github.com/rajasoun/machine-profile
 
 go 1.17
