@@ -4,9 +4,5 @@
 			"path": "."
 		}
 	],
-	"settings": {
-		"gopls": {
-			"experimentalWorkspaceModule": true,
-		}
-	}
+	"settings": {}
 }
