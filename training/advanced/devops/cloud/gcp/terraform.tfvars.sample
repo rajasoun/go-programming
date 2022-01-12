@@ -1,8 +1,0 @@
-credsfile = ""
-publickeyfile = ""
-
-project_id = ""
-region = ""
-zone = ""
-
-vm_name = "gcp-vm-101"
