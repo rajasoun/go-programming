@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/go,linux,macos,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=go,linux,macos,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,visualstudiocode,go,homebrew
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,visualstudiocode,go,homebrew
 
 ### Go ###
 # If you prefer the allow list template instead of the deny list, see community template:
@@ -28,6 +28,9 @@ go.work
 ### Go Patch ###
 /vendor/
 /Godeps/
+
+### Homebrew ###
+Brewfile.lock.json
 
 ### Linux ###
 *~
@@ -94,6 +97,6 @@ Temporary Items
 
 # Support for Project snippet scope
 
-# End of https://www.toptal.com/developers/gitignore/api/go,linux,macos,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,visualstudiocode,go,homebrew
 
-go-advanced
+
