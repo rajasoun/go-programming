@@ -54,6 +54,13 @@ Go For Non System Domains
 - Go for AI/ML (Using Tenserflow and otherwise too)
 - Blockchain
 
+Go Data Types & Conversion 
+
+- strconv.Itoa * strconv.Atoi
+- string, int, float64
+- const is only compile time in Go
+- type alias
+
 
 
 
