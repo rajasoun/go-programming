@@ -63,5 +63,8 @@ Go Data Types & Conversion
 
 
 
+Details 
+
+- https://go-fundamentals.slides.algogrit.com/
 
 
